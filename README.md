@@ -13,23 +13,23 @@ python tenders_search.py
 
 ## How it works
 
-After starting the program, type:
+**After starting the program, type:**
 
 yes
 
-Then use the menu to:
+**Then use the menu to:**
 
-browse Polish tenders
+- browse Polish tenders
 
-view tender details
+- view tender details
 
-add tenders to your personal list
+- add tenders to your personal list
 
-remove tenders from the list
+- remove tenders from the list
 
-apply a discount to the tender value
+- apply a discount to the tender value
 
-export or import your list to/from tenders.csv
+- export or import your list to/from tenders.csv
 
 ## CSV Export
 
